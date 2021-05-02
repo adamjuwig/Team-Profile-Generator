@@ -46,4 +46,4 @@ N/A
 
   ## Video Walkthrough
 
-  [Guide](https://drive.google.com/file/d/1X3Add9_lNPAyO1oUkqNMdUYPCeSJobVO/view)
+  [Demo](https://drive.google.com/file/d/1X3Add9_lNPAyO1oUkqNMdUYPCeSJobVO/view)
