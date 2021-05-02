@@ -11,20 +11,20 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./lib/htmlRenderer");
 const employeeArray = [];
-// function to run question from inquirer
+
 function mainMenu() {
   inquirer.prompt(questions).then(function (response) {
-    //checking to see role
+    
     switch (response.role) {
-      //if manager, run promptManager function
+     
       case "Manager":
         promptManager(response);
         break;
-        //if engineer, run promptEngineer function
+       
         case "Engineer":
           promptEngineer(response);
           break;
-          //else run promptIntern
+          
       default:
         promptIntern(response);
     }
