@@ -41,8 +41,8 @@ N/A
 
   ## Questions
 
-  GitHub Profile: https://github.com/eriklowrance<br>
-  Email me: eriklowrance@gmail.com
+  GitHub Profile: https://github.com/adamjuwig<br>
+  Email me: adamjuwig@gmail.com
 
   ## Video Walkthrough
 
